@@ -1,2 +1,6 @@
 # Steady-Flow
-In this project, we provide a collocation method for the problem of steady flow of a third grade fluid in a porous half space. This problem is a non-linear, two-point boundary value problem (BVP) on semi-infinite interval. This approach is based on a modifies generalized Laguerre which is an orthogonal function.
+Here is all the implementations of the following publication:
+
+K. Parand, F. Bayat Babolghani. Applying the Modified Generalized Laguerre Functions for Solving Steady Flow of a Third Grade Fluid in a Porous Half Space, to World Applied Science Journal 2012
+
+Our implementations were built in Maple 2013.
